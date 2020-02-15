@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">helloWorld</string>
+    <string name="question_boca">El alimento es triturado en la boca</string>
+    <string name="question_higado">El hígado es una glándula de gran tamaño que que produce el jugo gástrico</string>
+    <string name="question_faringe">La faringe conduce los alimentos hacia el esófago</string>
+    <string name="true_button">true</string>
+    <string name="false_button">false</string>
+    <string name="correct_toast">Correcto!!</string>
+    <string name="incorrect_toast">Incorrecto!!</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+</resources>
